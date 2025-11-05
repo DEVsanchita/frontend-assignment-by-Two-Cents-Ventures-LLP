@@ -31,9 +31,6 @@ This app subscribes to Binance's live market data feeds and displays live update
 ## ⚙️ Installation & Setup
 
 ```bash
-# Navigate into the project folder
-cd orderbook-visualizer
-
 # Install dependencies
 npm install
 

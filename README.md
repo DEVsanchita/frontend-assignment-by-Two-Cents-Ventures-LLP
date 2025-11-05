@@ -20,20 +20,17 @@ This app subscribes to Binance's live market data feeds and displays live update
 
 ## 🧠 Tech Stack
 
-- **Framework:** React (or Next.js, if used)  
-- **Language:** TypeScript (if applicable)  
+- **Framework:** React.js
+- **Language:** JavaScript
 - **Styling:** Tailwind CSS  
 - **API:** Binance WebSocket (`wss://stream.binance.com:9443/ws/btcusdt@depth20@100ms` and `@aggTrade`)  
-- **State Management:** (e.g., React Hooks / Zustand / useReducer — mention what you used)  
+- **State Management:** ( React Hooks )
 
 ---
 
 ## ⚙️ Installation & Setup
 
 ```bash
-# Clone the repository
-git clone <your_repo_url>
-
 # Navigate into the project folder
 cd orderbook-visualizer
 
